@@ -8,7 +8,7 @@ color:#cc3333;
 }
 
 
-.spec16, .spec21, .spec34, .spec72 {
+.spec16, .spec21, .spec34, .spec55, .spec72 {
 line-height:1em;
 }
 
@@ -33,6 +33,10 @@ font-size:21px;
 }
 .spec34 {
 font-size:34px;
+}
+
+.spec55 {
+    font-size:55px;
 }
 
 .spec72 {
